@@ -110,5 +110,3 @@ Do you want to continue? (y/n): y
 Enter your choice: 5
 
 Thank you for using the Menu-Driven Calculator!
-
-This content is suitable for inclusion in the `README.md` file of your GitHub project.
